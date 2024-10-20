@@ -116,7 +116,7 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: #fff
+  background-color: #ffa44f;
 }
 
 .Hero-text{
@@ -164,6 +164,7 @@
 }
 
 section .Majority-background{
+  background-color: #ffa44f;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -174,7 +175,8 @@ section .Majority-background{
   justify-content: center;
   margin-top: 15px;
   height: 100vh;
-  background-image: url(../LearnForWeb/ProjectKecil/WebsiteWork/image/Backgroud.png);
+  background-color: #ffa44f;
+  background-image: url(image/Backgroud.png);
   background-attachment: fixed;
 }
 
@@ -205,6 +207,7 @@ section .Majority-background{
   display: flex;
   background-color: #fff;
   align-items: center;
+  background-color: #ffa44f;
 }
 
 .Bargain-content{
