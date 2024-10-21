@@ -286,3 +286,16 @@ h3{
 .Input-email input{
   margin-left: 9px;
 }
+
+/* Responsive */
+@media screen and (max-width: 365px) {
+  .navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navbar__container{
+    align-items: center;
+  }
+}
